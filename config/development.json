@@ -1,0 +1,12 @@
+{
+  "logLevel": "info",
+  "datasources": {
+    "mongodb": {
+      "username": "boyan",
+      "password": "boyan",
+      "host": "localhost",
+      "port": "21171",
+      "database": "testDB"
+    }
+  }
+}
